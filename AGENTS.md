@@ -1,3 +1,7 @@
 # grep-rust
 
-Fast file content search. CLI that searches for patterns in files with colored output.
+CLI tool for grep rust.
+
+## For AI agents
+- Run `python3 scripts/cli.py --help`
+- Use `--json` flag for machine-readable output
