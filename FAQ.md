@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is grep-rust?
-A CLI tool for grep rust.
+Grep Rust
 
 ## Dependencies?
 Python stdlib only.
